@@ -1,0 +1,49 @@
+.center{
+    text-align: center;
+    margin-top: 5%;
+}
+.search{
+    width: 75%;
+    margin: 0 0 0 12% ;
+    background-color: 	#EEEEEE;
+}
+
+.search p{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.search input{
+    margin-bottom: 20px;
+}
+.grid-container{
+    margin: 0 0 0 12%;
+    width: 75%;
+}
+.r1{
+    background-color: #7EE5DA;
+    float: left;
+    width: 40%;
+    height: 98px;
+    margin: 0.2% 0.2% 0.2% 0;
+    
+}
+.r2{
+    background-color: #70CCC2;
+    float: left;
+    width: 20%;
+    height: 98px;
+    margin: 0.2% 0.2% 0.2% 0;
+    
+}
+.r3{
+    background-color: #62B3AA;
+    float: left;
+    width: 39.6%;
+    height: 98px;
+    margin: 0.2% 0;
+    margin-bottom: 60px;
+
+}
+.copyright{
+    margin-top: 0;
+}
